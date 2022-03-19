@@ -26,8 +26,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=black"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushinnam)](https://github.com/yushinnam/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yushinnam)](https://github.com/yushinnam/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushinnam)](https://github.com/yushinnam/github-readme-stats)
+
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhl214095)](https://solved.ac/jhl2140)
 
 
