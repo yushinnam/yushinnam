@@ -26,3 +26,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=black"/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushinnam)](https://github.com/yushinnam/github-readme-stats)
