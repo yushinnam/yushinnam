@@ -19,7 +19,7 @@
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhl214095)](https://solved.ac/jhl2140)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yushinnam)](https://github.com/yushinnam/github-readme-stats)  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=yushinnam&show_icons=true&locale=en&layout=compact" alt="yushinnam" /></p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yushinnam)](https://github.com/yushinnam/github-readme-stats)  
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=B897FF&height=200&section=footer)
